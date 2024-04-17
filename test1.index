@@ -9,7 +9,7 @@
         </update>
     </info>
     <files>
-        <file name="sources.xml" url="" />
+        <file name="sources.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/sources.xml" />
 
         <!-- items -->
         <file name="items.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/items.xml" />
