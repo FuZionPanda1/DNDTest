@@ -5,11 +5,7 @@
         <description>Test Content Made By Anthony.</description>
         <author url="http://pornhub.com">Anthony</author>
         <update version="0.0.1">
-            <file name="test.index" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test.index" />
-        </update>
-    </info>
-    <files>
-        <file name="test1.index" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test1.index" />
+            
     </files>
 </index>
 
