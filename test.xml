@@ -2,6 +2,19 @@
 <elements>
     <info>
         <update version="0.0.1">
-            <file name="test.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test.xml">
-            
+            <file name="test.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test.xml" />
+        </update>
+    </info>
+    <element name="Sweat Slime Beans" type="Item" source="Anthony" id="ANT_IS_GAY">
+        <description>
+            <p>Heals 1 HP for each Sweat Slime Bean eaten.</p>
+            <p class="indent">Made by mixing dead slimes with sugar.</p>
+        </description>
+        <setters>
+            <set name="Category">Adventuring Gear</set>
+            <set name="cost" currency="gp">1</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="stackable">true</set>
+        </setters>
+    </element>
 </elements>
