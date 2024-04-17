@@ -2,5 +2,6 @@
 <elements>
     <info>
         <update version="0.0.1">
-            <file name="test.xml" url=
+            <file name="test.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test.xml">
+            
 </elements>
