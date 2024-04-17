@@ -5,4 +5,12 @@
         <description>A Test Made By John Anthony.</description>
         <author url="http://pornhub.com">Anthony</author>
         <update version="0.0.1">
-            <file name="test1.index" url="
+            <file name="test1.index" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test1.index" />
+        </update>
+    </info>
+    <files>
+        <file name="sources.xml" url="" />
+
+        <!-- items -->
+        <file name="items.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/items.xml" />
+    </files>
