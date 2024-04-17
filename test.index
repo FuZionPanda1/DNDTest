@@ -9,4 +9,8 @@
         </update>
     </info>
     <files>
-        <file name="
+        <file name="test1.index" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test1.index" />
+    </files>
+</index>
+
+        
