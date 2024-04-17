@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.1">
-            <file name="test.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test.xml" />
+            <file name="test1.xml" url="https://raw.githubusercontent.com/FuZionPanda1/DNDTest/main/test1.xml" />
         </update>
     </info>
     <element name="Sweat Slime Beans" type="Item" source="Anthony" id="ANT_IS_GAY">
